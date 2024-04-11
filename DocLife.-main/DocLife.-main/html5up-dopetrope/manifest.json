@@ -1,0 +1,20 @@
+{"theme_color":"#dddddd",
+"background_color":"#dddddd",
+"icons":[{"purpose":"maskable",
+    "sizes":"512x512",
+    "src":"icon512_maskable.png",
+"type":"image/png"},
+
+{"purpose":"any",
+    "sizes":"512x512",
+    "src":"icon512_rounded.png",
+"type":"image/png"}],
+
+"orientation":"portrait",
+"display":"standalone",
+"dir":"auto","lang":"pt-BR",
+"name":"DocLife",
+"short_name":"Doclife",
+"description":"Este e um app Social, que consta os seus principais documentos.",
+"start_url":"index.html",
+"scope":"PWA scope"}
